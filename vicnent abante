@@ -1,0 +1,45 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vincet Lavilla Abante</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>[Vicnent Abante]</h1>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#projects">Wor experience</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>👋 About Me</h2>
+        <p>I am a passionate in graphics designing and video editing by using Canva, Capcut, Premiere Pro.</p>
+    </section>
+
+    <section id="Work experience">
+        <h2>🛠️ Work Experience</h2>
+        <div class="project-item">
+            <h3>Virtual Assistant/Photo Editior</h3>
+            <p>A My work experience is I am a virtual asstant and photo editor from 2021 to 2023, my assisgned task was to edit photos and do documents like data entry, making PowerPoint and rewriting documents from PDf to Microsoft Word. </p>
+            <a href="[Link to your GitHub Project Repository]" target="_blank">View Code</a> | <a href="[Link to Live Demo (if any)]" target="_blank">Live Demo</a>
+        </div>
+        </section>
+
+    <section id="contact">
+        <h2>📧 Get in Touch</h2>
+        <p>Email me at: vincentabante2194@gmail.com</a></p>
+        <p>Connect with me on: https://www.linkedin.com/in/vincent-abante-5ab49129b/">LinkedIn</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Vicnent Abante</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
